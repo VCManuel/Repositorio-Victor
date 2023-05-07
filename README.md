@@ -1,2 +1,1 @@
-# Repositorio-Victor
-Este es un repositorio del modulo 2 de Victor
+Este es un proyecto de prueba de como crear un repositorio y conarlo de hithub a mi computadora
